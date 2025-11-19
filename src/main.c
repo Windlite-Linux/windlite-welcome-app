@@ -98,7 +98,7 @@ static void activate(GtkApplication *app, gpointer user_data) {
         "• SUPER + Q → Close window\n"
         "• SUPER + V → Toggle floating window\n"
         "• SUPER + S → Open Settings (w/ kando)\n"
-        "• SUPER + M → Exit Hyprland\n"
+        "• SUPER + M → Logout Menu (wlogout)\n"
         "• SUPER + A → Maximize Window\n"
         "• SUPER + F → Fullscreen Window\n"
         "• SUPER + [1-0] → Switch workspace\n"
