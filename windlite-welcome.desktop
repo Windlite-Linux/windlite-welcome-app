@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Windlite Welcome App
+Comment=Welcome to Windlite Linux
+Exec=windlite-welcome-app
+Icon=windlite-welcome
+Type=Application
+Categories=Utility;GTK;
+Terminal=false
